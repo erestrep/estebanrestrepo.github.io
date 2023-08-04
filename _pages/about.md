@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Biography - Esteban Restrepo"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,9 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+Biography
+======
+Esteban Restrepo received the B.Sc. degree in Mechatronics Engineering from Universidad EIA, Envigado, Colombia and from Arts et Métiers, Paris, France, in 2017, and the M.Sc. degree in Robotic Systems Engineering from Arts et Métiers, Paris, France, in 2018, receiving the Silver Medal honorary distinction. He obtained the Ph.D. degree in Automatic Control from the University Paris-Saclay, France, in 2021. From January 2022 to January 2023 he was a Postdoctoral Researcher with the Division of Decision and Control Systems, KTH Royal Institute of Technology, Stockholm, Sweden. He is currently a Postdoctoral Researcher with CNRS-IRISA, and Inria Rennes, France. His research interests include multi-agent systems, nonlinear and networked control with application to autonomous robots and aerospace systems.
 
-A data-driven personal website
+Research interests
 ======
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
