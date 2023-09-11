@@ -19,10 +19,7 @@ My research is focused on autonomous multi-agent systems using tools from dynami
 Contact
 ======
 
-email: esteban.restrepo@inria.fr
-
-Address : IRISA, INRIA Rennes – Bretagne Atlantique
-
-Campus Universitaire de Beaulieu
-
+email: esteban.restrepo@inria.fr\
+Address : IRISA, INRIA Rennes – Bretagne Atlantique\
+Campus Universitaire de Beaulieu\
 35042 Rennes, France
