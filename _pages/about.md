@@ -3,12 +3,12 @@ permalink: /
 title: "Biography"
 excerpt: "About me"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
-From February 2023 I am a Postdoctoral researcher in the [Rainbow Team](https://team.inria.fr/rainbow/) at IRISA, CNRS and Inria Bretagne Atlantique, Rennes, France, under the supervision of Dr. [Paolo Robuffo Giordano](https://team.inria.fr/rainbow/team/prg/). 
+From February 2023 I am a Postdoctoral researcher in the [Rainbow Team](https://team.inria.fr/rainbow/) at IRISA, CNRS and Inria Bretagne Atlantique, Rennes, France, under the supervision of Dr. [Paolo Robuffo Giordano](https://team.inria.fr/rainbow/team/prg/).
 
 Before joining the Rainbow Team, from January 2022 to January 2023, I was a Postdoctoral researcher in the [Division of Decision and Control Systems](https://www.kth.se/is/dcs/division-of-decision-and-control-systems-1.788078) at KTH Royal Institute of Technology, Stockholm, Sweden, under the supervision of Dr. [Dimos Dimarogonas](https://people.kth.se/~dimos/).
 
@@ -18,14 +18,19 @@ I got the M.Sc. degree in Robotic Systems Engineering from Arts et Métiers, Par
 
 I received the B.Sc. degree in Mechatronics Engineering from Universidad EIA, Envigado, Colombia and from Arts et Métiers, Paris, France, in 2017, receiving the Silver Medal honorary distinction.
 
-Research Topics
+My Research
 ======
+
+My research is focused on autonomous multi-agent systems using tools from dynamical-systems and control theory. In particular, my principal research activity is centered in the design and analysiscollaborative design, study, and analysis of control of autonomous robotic vehicles (ground, aerial, and marine) both from the control-theoretic and the practical-implmentation prespectives.
 
 
 Contact
 ======
 
 email: esteban.restrepo@inria.fr
+
 Address : IRISA, INRIA Rennes – Bretagne Atlantique
+
 Campus Universitaire de Beaulieu
+
 35042 Rennes, France
