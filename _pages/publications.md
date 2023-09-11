@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: default
 title: "Publications"
 permalink: /publications/
 author_profile: true
@@ -19,14 +19,11 @@ author_profile: true
 
 1. J. G. Romero, E. Nuño, **E. Restrepo** and I. Sarras, "[Global Consensus-based Formation Control of Nonholonomic Mobile Robots with Time-Varying Delays and without Velocity Measurements](https://doi.org/10.1109/TAC.2023.3264744)," in IEEE Transactions on Automatic Control, doi: 10.1109/TAC.2023.3264744.
 
-PDF
-
 1. **E. Restrepo** and D. V. Dimarogonas, "[On Asymptotic Stability of Leader–Follower Multiagent Systems Under Transient Constraints](https://doi.org/10.1109/LCSYS.2022.3182846)," in IEEE Control Systems Letters, vol. 6, pp. 3164-3169, 2022, doi: 10.1109/LCSYS.2022.3182846.
 
 1. J.G. Romero, E. Nuño, **E. Restrepo**, R. Cisneros and M. Morales, "[A Smooth Time–Varying PID Controller for Nonholonomic Mobile Robots Subject to Matched Disturbances](https://doi.org/10.1007/s10846-022-01622-3)," in J. Intell. Robot. Syst., vol. 105, no. 13, 2022, doi: 10.1007/s10846-022-01622-3.
 
-1. E. Nuño, A. Loría, E. Panteley and **E. Restrepo**, "[Rendezvous of Nonholonomic Robots via Output-Feedback Control Under Time-Varying Delays](https://doi.org/10.1109/TCST.2022.3144031)," in IEEE Transactions on Control Systems Technology, vol. 30, no. 6, pp. 2707-2716, Nov. 2022, doi: 10.1109/TCST.2022.3144031.
-
+1. E. Nuño, A. Loría, E. Panteley and **E. Restrepo**, "[Rendezvous of Nonholonomic Robots via Output-Feedback Control Under Time-Varying Delays](https://doi.org/10.1109/TCST.2022.3144031)," in IEEE Transactions on Control Systems Technology, vol. 30, no. 6, pp. 2707-2716, Nov. 2022, doi: 10.1109/TCST.2022.3144031.\
 [PDF](https://hal.science/hal-03752270v2/document)
 
 1. **E. Restrepo**, A. Loría, I. Sarras and J. Marzat, "[Robust Consensus of High-Order Systems Under Output Constraints: Application to Rendezvous of Underactuated UAVs](https://doi.org/10.1109/TAC.2022.3144107)," in IEEE Transactions on Automatic Control, vol. 68, no. 1, pp. 329-342, Jan. 2023, doi: 10.1109/TAC.2022.3144107.\
@@ -34,8 +31,7 @@ PDF
 
 1. **E. Restrepo**, A Loría, I. Sarras and J. Marzat, "[Edge-based strict Lyapunov functions for consensus with connectivity preservation over directed graphs](https://doi.org/10.1016/j.automatica.2021.109812)," in Automatica, , 132, 109812, doi: 10.1016/j.automatica.2021.109812.
 
-1. **E. Restrepo**, A. Loría, I. Sarras and J. Marzat, "[Stability and robustness of edge-agreement-based consensus protocols for undirected proximity graphs](https://doi.org/10.1080/00207179.2020.1800101)," in International Journal of Control, vol. 95, no. 2, pp. 526-534, doi: 10.1080/00207179.2020.1800101.
-
+1. **E. Restrepo**, A. Loría, I. Sarras and J. Marzat, "[Stability and robustness of edge-agreement-based consensus protocols for undirected proximity graphs](https://doi.org/10.1080/00207179.2020.1800101)," in International Journal of Control, vol. 95, no. 2, pp. 526-534, doi: 10.1080/00207179.2020.1800101.\
 [PDF](https://hal.science/hal-02932046v1/document)
 
 1. **E. Restrepo**, A. Loría, I. Sarras and J. Marzat, "[Leader-Follower Consensus of Unicycles With Communication Range Constraints via Smooth Time-Invariant Feedback](https://doi.org/10.1109/LCSYS.2020.3005181)," in IEEE Control Systems Letters, vol. 5, no. 2, pp. 737-742, April 2021, doi: 10.1109/LCSYS.2020.3005181.\
@@ -43,8 +39,7 @@ PDF
 
 ## Conference Papers
 
-1. A. Lazri, **E. Restrepo** and A. Loría, "[Robust leader-follower formation control of autonomous vehicles with unknown leader velocities](https://doi.org/10.23919/ECC57647.2023.10178165)," 2023 European Control Conference (ECC), Bucharest, Romania, 2023, pp. 1-6, doi: 10.23919/ECC57647.2023.10178165.
-
+1. A. Lazri, **E. Restrepo** and A. Loría, "[Robust leader-follower formation control of autonomous vehicles with unknown leader velocities](https://doi.org/10.23919/ECC57647.2023.10178165)," 2023 European Control Conference (ECC), Bucharest, Romania, 2023, pp. 1-6, doi: 10.23919/ECC57647.2023.10178165.\
 [PDF](https://hal.science/hal-03869953v1/document)
 
 1. **E. Restrepo**, A. Loría, I. Sarras and J. Marzat, "[Consensus of Open Multi-agent Systems over Dynamic Undirected Graphs with Preserved Connectivity and Collision Avoidance](https://doi.org/10.1109/CDC51059.2022.9993102)," 2022 IEEE 61st Conference on Decision and Control (CDC), Cancun, Mexico, 2022, pp. 4609-4614, doi: 10.1109/CDC51059.2022.9993102.
@@ -66,4 +61,5 @@ PDF
 
 ## Dissertations
 
-* **E. Restrepo**, "[Coordination control of autonomous robotic multi-agent systems under constraints](https://theses.hal.science/tel-03537341)." Automatic. Université Paris-Saclay, 2021. English.
+* **E. Restrepo**, "[Coordination control of autonomous robotic multi-agent systems under constraints](https://theses.hal.science/tel-03537341)." Automatic. Université Paris-Saclay, 2021. English.\
+[PDF](https://theses.hal.science/tel-03537341v1/document)   [Google Scholar](https://scholar.google.fr/citations?view_op=view_citation&hl=fr&user=6CaXeN4AAAAJ&citation_for_view=6CaXeN4AAAAJ:Y0pCki6q_DkC)
