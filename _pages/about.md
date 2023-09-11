@@ -15,6 +15,8 @@ My Research
 
 My research is focused on autonomous multi-agent systems using tools from dynamical-systems and control theory. In particular, my principal research activity is centered in the control design, study, and analysis of groups of autonomous robotic vehicles (ground, aerial, and marine) both from the control-theoretic and the practical-implementation perspectives.
 
+You can find more information at my [research page](/research).
+
 
 Contact
 ======
