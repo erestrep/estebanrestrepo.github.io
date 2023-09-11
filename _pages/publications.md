@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
@@ -17,7 +17,8 @@ author_profile: true
 
 ## Journal Papers
 
-1. J. G. Romero, E. Nuño, **E. Restrepo** and I. Sarras, "[Global Consensus-based Formation Control of Nonholonomic Mobile Robots with Time-Varying Delays and without Velocity Measurements](https://doi.org/10.1109/TAC.2023.3264744)," in IEEE Transactions on Automatic Control, doi: 10.1109/TAC.2023.3264744.
+1. J. G. Romero, E. Nuño, **E. Restrepo** and I. Sarras, **"[Global Consensus-based Formation Control of Nonholonomic Mobile Robots with Time-Varying Delays and without Velocity Measurements](),"** in IEEE Transactions on Automatic Control, doi: 10.1109/TAC.2023.3264744.\
+[DOI](https://doi.org/10.1109/TAC.2023.3264744)     [Google Scholar](https://scholar.google.fr/citations?view_op=view_citation&hl=fr&user=6CaXeN4AAAAJ&sortby=pubdate&citation_for_view=6CaXeN4AAAAJ:Se3iqnhoufwC)
 
 1. **E. Restrepo** and D. V. Dimarogonas, "[On Asymptotic Stability of Leader–Follower Multiagent Systems Under Transient Constraints](https://doi.org/10.1109/LCSYS.2022.3182846)," in IEEE Control Systems Letters, vol. 6, pp. 3164-3169, 2022, doi: 10.1109/LCSYS.2022.3182846.
 
@@ -62,4 +63,4 @@ author_profile: true
 ## Dissertations
 
 * **E. Restrepo**, "[Coordination control of autonomous robotic multi-agent systems under constraints](https://theses.hal.science/tel-03537341)." Automatic. Université Paris-Saclay, 2021. English.\
-[PDF](https://theses.hal.science/tel-03537341v1/document)   [Google Scholar](https://scholar.google.fr/citations?view_op=view_citation&hl=fr&user=6CaXeN4AAAAJ&citation_for_view=6CaXeN4AAAAJ:Y0pCki6q_DkC)
+[PDF](https://theses.hal.science/tel-03537341v1/document)     [Google Scholar](https://scholar.google.fr/citations?view_op=view_citation&hl=fr&user=6CaXeN4AAAAJ&citation_for_view=6CaXeN4AAAAJ:Y0pCki6q_DkC)
