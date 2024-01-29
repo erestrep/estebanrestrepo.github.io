@@ -15,10 +15,21 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
+## Preprint
+
+1. **E. Restrepo**, C. Secchi and P. Robuffo Giordano, **"Passivity Preserving Energy-Aware Design for	Multi-Dimensional Switched Systems: Application to Open Multi-Robot Systems,"** in Automatica, 2023. Submitted as a full paper.\
+[DOI]() | [Google Scholar]() | [PDF](https://hal.science/hal-04330519/document)
+
 ## Journal Papers
 
-1. **E. Restrepo**, N. Wang and D. V. Dimarogonas, **"Simultaneous Topology Identification and Synchronization of Directed Dynamical Networks,"** in IEEE Transactions on Control of Network Systems, 2023.\
+1. **E. Restrepo**, J. Matouš and K. Y. Pettersen, **"Tracking-in-Formation of Multiple Marine Vehicles Under Hard and Soft Constraints,"** in IEEE Transactions on Control of Network Systems, 2023.\
 [DOI]() | [Google Scholar]() | [PDF]()
+
+1. **E. Restrepo**, N. Wang and D. V. Dimarogonas, **"Simultaneous Topology Identification and Synchronization of Directed Dynamical Networks,"** in IEEE Transactions on Control of Network Systems, 2023.\
+[DOI](https://doi.org/10.1109/TCNS.2023.3338253) | [Google Scholar](https://scholar.google.fr/citations?view_op=view_citation&hl=en&user=6CaXeN4AAAAJ&sortby=pubdate&citation_for_view=6CaXeN4AAAAJ:5nxA0vEk-isC) | [PDF](https://hal.science/hal-04395134v1/document)
+
+1. **E. Restrepo** and P. Robuffo Giordano, **"Distributed Biconnecitvity Achievement and Preservation in Multi-agent Systems,"** in IEEE Control Systems Letters, 2023.
+[DOI](https://doi.org/10.1109/LCSYS.2023.3324837) | [Google Scholar](https://scholar.google.fr/citations?view_op=view_citation&hl=en&user=6CaXeN4AAAAJ&sortby=pubdate&citation_for_view=6CaXeN4AAAAJ:UebtZRa9Y70C) | [PDF](https://hal.science/hal-04250466v1/document)
 
 1. J. G. Romero, E. Nuño, **E. Restrepo** and I. Sarras, **"Global Consensus-based Formation Control of Nonholonomic Mobile Robots with Time-Varying Delays and without Velocity Measurements,"** in IEEE Transactions on Automatic Control.\
 [DOI](https://doi.org/10.1109/TAC.2023.3264744) | [Google Scholar](https://scholar.google.fr/citations?view_op=view_citation&hl=fr&user=6CaXeN4AAAAJ&sortby=pubdate&citation_for_view=6CaXeN4AAAAJ:Se3iqnhoufwC) | [PDF]()

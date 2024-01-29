@@ -83,11 +83,11 @@ author:
   name             : "Esteban Restrepo"
   avatar           : "profile.png"
   bio              : "Postdoc Researcher at IRISA and Inria Bretagne Atlantique"
-  location         : "Rennes, France"
+  location         : "Campus Universitaire de Beaulieu, Rennes, France"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.fr/citations?user=6CaXeN4AAAAJ&hl=en"
-  email            :
+  email            : "esteban.restrepo@inria.fr"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
