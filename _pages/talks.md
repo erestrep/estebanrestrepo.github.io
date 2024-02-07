@@ -17,6 +17,8 @@ author_profile: true
 
 ## 2023
 
+* **Energy-Aware Design for Open Multi-Robot Systems**, LAAS-CNRS, Toulouse, France, December 14th, 2023.
+
 * **Control of multi-agent systems under constraints: the edge-agreement framework**, Rainbow Team INRIA Bretagne - Atlantique, Rennes, France, March 10th, 2023.
 
 ## 2022
@@ -43,4 +45,4 @@ author_profile: true
 ## 2019
 
 * **A Lyapunov-stability theory perspective on consensus: applications to control of autonomous multi-agent systems**, GT SYNOBS - GdR MACS, Paris, France, November 7th, 2019.
-* **3D UAV Navigation with Moving-Obstacle Avoidance Using Barrier Lyapunov Functions**, 21st IFAC Symposium on Automatic Control in Aerospace (ACA), Cranfield, UK, August 29th, 2019. 
+* **3D UAV Navigation with Moving-Obstacle Avoidance Using Barrier Lyapunov Functions**, 21st IFAC Symposium on Automatic Control in Aerospace (ACA), Cranfield, UK, August 29th, 2019.

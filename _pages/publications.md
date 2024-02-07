@@ -17,13 +17,16 @@ author_profile: true
 
 ## Preprint
 
+1.  J. G. Romero, E. Nuño, **E. Restrepo**, D. Navarro-Alarcón, **"Output Feedback Consensus-based Formation of Nonholonomic Vehicles with Input Disturbances and Time-Varying Delays"** in Automatica, 2024. Submitted as a full paper.\
+[DOI]() | [Google Scholar]() | [PDF]()
+
 1. **E. Restrepo**, C. Secchi and P. Robuffo Giordano, **"Passivity Preserving Energy-Aware Design for	Multi-Dimensional Switched Systems: Application to Open Multi-Robot Systems,"** in Automatica, 2023. Submitted as a full paper.\
-[DOI]() | [Google Scholar]() | [PDF](https://hal.science/hal-04330519/document)
+[DOI]() | [Google Scholar](https://scholar.google.fr/citations?view_op=view_citation&hl=en&user=6CaXeN4AAAAJ&sortby=pubdate&citation_for_view=6CaXeN4AAAAJ:0EnyYjriUFMC) | [PDF](https://hal.science/hal-04330519/document)
 
 ## Journal Papers
 
 1. **E. Restrepo**, J. Matouš and K. Y. Pettersen, **"Tracking-in-Formation of Multiple Marine Vehicles Under Hard and Soft Constraints,"** in IEEE Transactions on Control of Network Systems, 2023.\
-[DOI]() | [Google Scholar]() | [PDF]()
+[DOI]() | [Google Scholar](https://scholar.google.fr/citations?view_op=view_citation&hl=en&user=6CaXeN4AAAAJ&sortby=pubdate&citation_for_view=6CaXeN4AAAAJ:MXK_kJrjxJIC) | [PDF](https://hal.science/hal-04429664/document)
 
 1. **E. Restrepo**, N. Wang and D. V. Dimarogonas, **"Simultaneous Topology Identification and Synchronization of Directed Dynamical Networks,"** in IEEE Transactions on Control of Network Systems, 2023.\
 [DOI](https://doi.org/10.1109/TCNS.2023.3338253) | [Google Scholar](https://scholar.google.fr/citations?view_op=view_citation&hl=en&user=6CaXeN4AAAAJ&sortby=pubdate&citation_for_view=6CaXeN4AAAAJ:5nxA0vEk-isC) | [PDF](https://hal.science/hal-04395134v1/document)
@@ -58,7 +61,7 @@ author_profile: true
 ## Conference Papers
 
 1. **E. Restrepo**, N. Wang and D. V. Dimarogonas, **"Simultaneous Synchronization and Topology Identification of Complex Dynamical Networks,"** 2023 IEEE 62nd Conference on Decision and Control (CDC), Marina Bay Sands, Singapore, 2023.\
-[DOI]() | [Google Scholar]() | [PDF]()
+[DOI](https://doi.org/10.1109/CDC49753.2023.10383578) | [Google Scholar](https://scholar.google.fr/citations?view_op=view_citation&hl=en&user=6CaXeN4AAAAJ&sortby=pubdate&citation_for_view=6CaXeN4AAAAJ:8k81kl-MbHgC) | [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10383578)
 
 1. A. Lazri, **E. Restrepo** and A. Loría, **"Robust leader-follower formation control of autonomous vehicles with unknown leader velocities,"** 2023 European Control Conference (ECC), Bucharest, Romania, 2023, pp. 1-6.\
 [DOI](https://doi.org/10.23919/ECC57647.2023.10178165) | [Google Scholar](https://scholar.google.fr/citations?view_op=view_citation&hl=fr&user=6CaXeN4AAAAJ&sortby=pubdate&citation_for_view=6CaXeN4AAAAJ:LkGwnXOMwfcC) | [PDF](https://hal.science/hal-03869953v1/document)
@@ -83,6 +86,11 @@ author_profile: true
 
 1. **E. Restrepo**, I. Sarras, A. Loría, J. Marzat, **"3D UAV Navigation with Moving-Obstacle Avoidance Using Barrier Lyapunov Functions,"** in IFAC-PapersOnLine, vol. 52, no. 12, 2019, pp. 49-54.\
 [DOI](https://doi.org/10.1016/j.ifacol.2019.11.068) | [Google Scholar](https://scholar.google.fr/citations?view_op=view_citation&hl=fr&user=6CaXeN4AAAAJ&sortby=pubdate&citation_for_view=6CaXeN4AAAAJ:u5HHmVD_uO8C) | [PDF](https://hal.science/hal-02355276v1/document)
+
+## Book chapters
+
+1. A. Lorı́a, E. Nuño, E. Panteley, **E. Restrepo**, **"Physics-based output-feedback consensus-formation control of networked autonomous vehicles"** in Hybrid and Networked Dynamical Systems. Ed. by R. Postoyan, P. Frasca, E. Panteley, and L. Zaccarian. Lecture Notes in Control and Information Sciences. London: Springer Verlag, 2024.\
+[DOI]() | [Google Scholar](https://scholar.google.fr/citations?view_op=view_citation&hl=en&user=6CaXeN4AAAAJ&sortby=pubdate&citation_for_view=6CaXeN4AAAAJ:hqOjcs7Dif8C) | [PDF](https://hal.science/hal-04298646v1/document)
 
 ## Dissertations
 
