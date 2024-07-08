@@ -23,7 +23,13 @@ author_profile: true
 1. **E. Restrepo**, C. Secchi and P. Robuffo Giordano, **"Passivity Preserving Energy-Aware Design for	Multi-Dimensional Switched Systems: Application to Open Multi-Robot Systems,"** in Automatica, 2023. Submitted as a full paper.\
 [DOI]() | [Google Scholar](https://scholar.google.fr/citations?view_op=view_citation&hl=en&user=6CaXeN4AAAAJ&sortby=pubdate&citation_for_view=6CaXeN4AAAAJ:0EnyYjriUFMC) | [PDF](https://hal.science/hal-04330519/document)
 
+1. **E. Restrepo** and P. Robuffo Giordano, **"A Distributed Strategy for Generalized Biconnecitvity Maintenance in Open Multi-robot Systems,"** Submitted for presentation at CDC 2024.\
+[DOI]() | [Google Scholar]() | [PDF]()
+
 ## Journal Papers
+
+1. N. De Carli, **E. Restrepo** and P. Robuffo Giordano, **"Adaptive Observer From Body-Frame Relative Position Measurements for Cooperative Localization,"** in IEEE Control Systems Letters, 2024.\
+[DOI](https://doi.org/10.1109/LCSYS.2024.3410893) | [Google Scholar](https://scholar.google.fr/scholar?hl=en&as_sdt=0%2C5&q=Adaptive+Observer+From+Body-Frame+Relative+Position+Measurements+for+Cooperative+Localization&btnG=) | [PDF](https://hal.science/hal-04610053v1/file/Observer_from_rel_pos_meas_HAL.pdf)
 
 1. **E. Restrepo**, J. Matouš and K. Y. Pettersen, **"Tracking-in-Formation of Multiple Marine Vehicles Under Hard and Soft Constraints,"** in IEEE Transactions on Control of Network Systems, 2023.\
 [DOI]() | [Google Scholar](https://scholar.google.fr/citations?view_op=view_citation&hl=en&user=6CaXeN4AAAAJ&sortby=pubdate&citation_for_view=6CaXeN4AAAAJ:MXK_kJrjxJIC) | [PDF](https://hal.science/hal-04429664/document)

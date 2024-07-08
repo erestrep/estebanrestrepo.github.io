@@ -11,10 +11,12 @@ author_profile: true
 
 ## Co-supervised Visiting PhD Students
 
-* [Francesca Pagano](), Institution: University of Naples Federico II, October 2023 - February 2024, Advisors: Dr. Paolo Robuffo Giordano, Dr. Esteban Restrepo, Nicola De Carli
+* [Francesca Pagano](), Institution: University of Naples Federico II, October 2023 - February 2024, Advisors: Dr. Paolo Robuffo Giordano, Dr. Esteban Restrepo, Dr. Nicola De Carli
 
 ## Co-supervised Master Students
 
-* [Emanuele Buzzurro](), Institution: Centrale Nantes, February 1st - July 31st 2024, Advisors: Dr. Marco Tognon, Dr. Esteban Restrepo, Nicola De Carli
+* [Valeria Braglia](), Institution: University of Modena and Reggio Emilia, February 26th - August 26th 2024, Advisors: Dr. Marco Tognon, Dr. Esteban Restrepo, Dr. Nicola De Carli
+
+* [Emanuele Buzzurro](), Institution: Centrale Nantes, February 1st - July 31st 2024, Advisors: Dr. Marco Tognon, Dr. Esteban Restrepo, Dr. Nicola De Carli
 
 * [Anes Lazri](https://scholar.google.fr/citations?user=l07Iu4oAAAAJ&hl=en&oi=ao), Institution: Université Paris-Saclay, March 15th - August 31st 2021, Advisors: Dr. Antonio Loría, Dr. Esteban Restrepo
