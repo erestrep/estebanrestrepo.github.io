@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Esteban Restrepo"
   avatar           : "profile.png"
-  bio              : "Postdoc Researcher at IRISA and Inria Bretagne Atlantique"
+  bio              : "Tenured researcher at IRISA-CNRS"
   location         : "Campus de Beaulieu, Rennes, France"
   employer         :
   pubmed           :
@@ -274,6 +274,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-redirect-from
+  - jekyll-last-modified-at
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate
