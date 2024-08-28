@@ -5,7 +5,6 @@ permalink: /positions/
 author_profile: true
 ---
 
-<!-- Last update: {% last_modified_at %Y-%b-%d %} -->
 
 
 | Title | Type of position   | Short abstract | Image |    
