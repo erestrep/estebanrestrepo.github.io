@@ -19,7 +19,7 @@ main:
     url: /awards/
 
   - title: "News"
-    url: /news/
+    url: /year-archive/
 
   - title: "Open positions"
     url: /positions/
