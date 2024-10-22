@@ -17,11 +17,7 @@ author_profile: true
 
 ## Preprint
 
-
-1.  J. G. Romero, E. Nuño, **E. Restrepo**, D. Navarro-Alarcón, **"Output Feedback Consensus-based Formation of Nonholonomic Vehicles with Input Disturbances and Time-Varying Delays"** in Automatica, 2024. Submitted as a full paper.\
-[DOI]() | [Google Scholar]() | [PDF]()
-
-1. **E. Restrepo**, C. Secchi and P. Robuffo Giordano, **"Passivity Preserving Energy-Aware Design for	Multi-Dimensional Switched Systems: Application to Open Multi-Robot Systems,"** in Automatica, 2023. Submitted as a full paper.\
+1. **E. Restrepo**, C. Secchi and P. Robuffo Giordano, **"Passivity Preserving Energy-Aware Design for	Multi-Dimensional Switched Systems: Application to Open Multi-Robot Systems,"** in Automatica, 2024. Submitted as a full paper.\
 [DOI]() | [Google Scholar](https://scholar.google.fr/citations?view_op=view_citation&hl=en&user=6CaXeN4AAAAJ&sortby=pubdate&citation_for_view=6CaXeN4AAAAJ:0EnyYjriUFMC) | [PDF](https://hal.science/hal-04330519/document)
 
 
@@ -32,7 +28,7 @@ author_profile: true
 [DOI](https://doi.org/10.1109/LCSYS.2024.3410893) | [Google Scholar](https://scholar.google.fr/scholar?hl=en&as_sdt=0%2C5&q=Adaptive+Observer+From+Body-Frame+Relative+Position+Measurements+for+Cooperative+Localization&btnG=) | [PDF](https://hal.science/hal-04610053v1/file/Observer_from_rel_pos_meas_HAL.pdf)
 
 1. **E. Restrepo**, J. Matouš and K. Y. Pettersen, **"Tracking-in-Formation of Multiple Marine Vehicles Under Hard and Soft Constraints,"** in IEEE Transactions on Control of Network Systems, 2023.\
-[DOI]() | [Google Scholar](https://scholar.google.fr/citations?view_op=view_citation&hl=en&user=6CaXeN4AAAAJ&sortby=pubdate&citation_for_view=6CaXeN4AAAAJ:MXK_kJrjxJIC) | [PDF](https://hal.science/hal-04429664/document)
+[DOI](https://doi.org/10.1109/TCNS.2024.3378392) | [Google Scholar](https://scholar.google.fr/citations?view_op=view_citation&hl=en&user=6CaXeN4AAAAJ&sortby=pubdate&citation_for_view=6CaXeN4AAAAJ:MXK_kJrjxJIC) | [PDF](https://hal.science/hal-04429664/document)
 
 1. **E. Restrepo**, N. Wang and D. V. Dimarogonas, **"Simultaneous Topology Identification and Synchronization of Directed Dynamical Networks,"** in IEEE Transactions on Control of Network Systems, 2023.\
 [DOI](https://doi.org/10.1109/TCNS.2023.3338253) | [Google Scholar](https://scholar.google.fr/citations?view_op=view_citation&hl=en&user=6CaXeN4AAAAJ&sortby=pubdate&citation_for_view=6CaXeN4AAAAJ:5nxA0vEk-isC) | [PDF](https://hal.science/hal-04395134v1/document)
@@ -66,8 +62,13 @@ author_profile: true
 
 ## Conference Papers
 
-1. **E. Restrepo** and P. Robuffo Giordano, **"A Distributed Strategy for Generalized Biconnecitvity Maintenance in Open Multi-robot Systems,"** Submitted for presentation at CDC 2024.\
+1. **E. Restrepo** and P. Robuffo Giordano, **"A Distributed Strategy for Generalized Biconnecitvity Maintenance in Open Multi-robot Systems,"** in IEEE 63rd Conference on Decision and
+Control (CDC), 2024.\
 [DOI]() | [Google Scholar]() | [PDF]()
+
+1. N. Wang, **E. Restrepo**, D. V. Dimarogonas, **“Simultaneous Topology Estimation and Synchroniza-tion of Dynamical Networks with Time-varying Topology,”** in IEEE 63rd Conference on Decision and
+Control (CDC), 2024.\
+[DOI]() | [Google Scholar]() | [PDF](https://arxiv.org/pdf/2409.08404)
 
 1. **E. Restrepo**, N. Wang and D. V. Dimarogonas, **"Simultaneous Synchronization and Topology Identification of Complex Dynamical Networks,"** 2023 IEEE 62nd Conference on Decision and Control (CDC), Marina Bay Sands, Singapore, 2023.\
 [DOI](https://doi.org/10.1109/CDC49753.2023.10383578) | [Google Scholar](https://scholar.google.fr/citations?view_op=view_citation&hl=en&user=6CaXeN4AAAAJ&sortby=pubdate&citation_for_view=6CaXeN4AAAAJ:8k81kl-MbHgC) | [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10383578)
