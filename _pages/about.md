@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Tenured Researcher (Chargé de Recherche) in the [Rainbow team](https://team.inria.fr/rainbow/) at [IRISA - CNRS](https://www.irisa.fr/en), Rennes, France.
+I am a [CNRS](https://www.cnrs.fr/en) Tenured Researcher (Chargé de Recherche) in the [Rainbow team](https://team.inria.fr/rainbow/) at [IRISA - CNRS](https://www.irisa.fr/en), Rennes, France.
 
 Previously, from February 2023 to October 2024 I have been a post-doctoral researcher in the [Rainbow Team](https://team.inria.fr/rainbow/) at IRISA - CNRS, Rennes, France, working with Dr. [Paolo Robuffo Giordano](https://team.inria.fr/rainbow/team/prg/).
 
